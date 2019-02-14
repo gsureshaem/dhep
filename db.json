@@ -1,0 +1,28 @@
+{
+	"user": 12345,
+	"email": "aaa@aaa.com",
+	"signature": "1234",
+	"createdAt": "2018-01-01",
+	"dob": "1985-04-26",
+	"name": "Nick Cage",
+	"nickname": "Nick",
+	"gender": "male",
+	"phone": "090-1234-1234",
+	"address": "some street, streetville",
+	"password": "Qwer123@",
+	"passwordConfirmation": "Qwer123@",
+	"validationResults": {
+		"validity": {
+			"email": true,
+			"nickname": true,
+			"password": true,
+			"passwordConfirmation": true
+		},
+		"messages": {
+			"email": "This is true",
+			"nickname": "This is true",
+			"password": "This is true",
+			"passwordConfirmation": "This is true"
+		}
+	}
+}
